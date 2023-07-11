@@ -1,6 +1,8 @@
 # Analysis-of-Research-Database
 Subject: Big Data Analytics 	
+
 Project: Analysis of Research Database
+
 Group Size: 2
 
 # Part 1: Information Fusion across two databases. 
